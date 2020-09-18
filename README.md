@@ -9,5 +9,5 @@
 ![](https://img.shields.io/badge/Typescript-B+-yellow?logo=typescript)
 ![](https://img.shields.io/badge/Microsoft's_Java-B+-yellow?logo=c#)
 
-### Statistics 🧮
+### Statistics 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=anav0)](https://github.com/anav0/github-readme-stats)
