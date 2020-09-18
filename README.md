@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello traveller 👋
 
-<!--
-**Anav0/Anav0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies & tools 🔨
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/React-A-green?logo=react) 
+![](https://img.shields.io/badge/Gatsby-A-green?logo=gatsby)
+![](https://img.shields.io/badge/Figma-A-green?logo=figma)
+![](https://img.shields.io/badge/MongoDb-B+-yellow?logo=mongodb)
+![](https://img.shields.io/badge/Typescript-B+-yellow?logo=typescript)
+![](https://img.shields.io/badge/Microsoft's_Java-B+-yellow?logo=c#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Statistics 🧮
+[![My github stats](https://github-readme-stats.vercel.app/api?username=anav0)](https://github.com/anav0/github-readme-stats)
