@@ -1,5 +1,3 @@
-### Hello traveller 👋
-
 ### My website
 http://www.igormotyka.xyz
 
