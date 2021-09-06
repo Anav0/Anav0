@@ -1,5 +1,5 @@
 ### My website
-http://www.igormotyka.xyz
+https://igormotyka.netlify.app/
 
 ### Technologies & tools 🔨
 
