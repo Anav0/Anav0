@@ -1,7 +1,7 @@
 ### My website
 https://igormotyka.netlify.app/
 
-### Technologies & tools 🔨
+### Not so helpful badges
 
 ![](https://img.shields.io/badge/React-A-green?logo=react) 
 ![](https://img.shields.io/badge/Gatsby-A-green?logo=gatsby)
