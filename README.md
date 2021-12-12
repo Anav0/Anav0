@@ -1,6 +1,7 @@
 ### My website
-With 3d Animations: https://igormotyka.netlify.app/
-PLain HTML:         https://light-igormotyka.netlify.app/
+With 3D Animations: https://igormotyka.netlify.app/
+
+Plain HTML:         https://light-igormotyka.netlify.app/
 
 ### Not so helpful badges
 
