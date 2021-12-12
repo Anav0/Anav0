@@ -1,4 +1,5 @@
-[Resume pdf ](https://github.com/Anav0/Anav0/files/7699067/motyka_cv.pdf)
+### Resume pdf
+https://github.com/Anav0/Anav0/files/7699067/motyka_cv.pdf
 
 ### My website
 
