@@ -1,4 +1,4 @@
-### Resume pdf
+### Resume
 https://github.com/Anav0/Anav0/files/7699067/motyka_cv.pdf
 
 ### My website
