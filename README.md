@@ -1,5 +1,5 @@
 ### Resume
-https://github.com/Anav0/Anav0/files/7699067/motyka_cv.pdf
+https://github.com/Anav0/resume/releases/download/v1.0.2/motyka_cv.pdf
 
 ### My website
 
